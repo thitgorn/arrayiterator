@@ -1,7 +1,5 @@
-#arrayiterator
+# arrayiterator
 
-#Student name
-Thitiwat Thongbor
+Iterate over all the array.
 
-#Student id
-5910546384
+<code> Author : Thitiwat Thongbor </code>
